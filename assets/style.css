@@ -1,1 +1,88 @@
+Montre moi l’aperçu du fichier readme. Et oui découpe l’image c’est ce que je t’ai demandé avant
+
+Et utilise ça :
+
+body {
+  background-color: #a6bf4b;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 20px;
+}
+
+h1 {
+  font-family: "sheepman", serif;
+  font-weight: 500;
+  font-style: normal;
+  margin: 10px 0;
+  color: #F2D785;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+
+h2 {
+  font-family: "sheepman", serif;
+  margin: 5px 0;
+}
+
+p {
+  font-family: "rama-gothic-m", sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  font-style: normal;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(2, 0, 0, 0.6);
+  margin: 10px 20px;
+}
+
+.socials {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.social-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 12px;
+  height: 45px;
+  width: 190px;
+  font-family: Impact, sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  color: #fff;
+  background: rgba(120, 140, 50, 0.85);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+.social-button img {
+  width: 24px;
+  height: 24px;
+}
+
+.social-button:hover {
+  transform: scale(1.08);
+  background: rgba(140, 170, 60, 0.9);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25), 0 0 8px rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}
+  /* Couleurs spécifiques */
+.youtube:hover { background-color: #FF0000; }
+.twitch:hover { background-color: #9146FF; }
+.twitter:hover { background-color: #1DA1F2; }
+.tiktok:hover { background-color: #000000; }
+.instagram:hover { background-color: #F56040 ; }
+
 
