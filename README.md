@@ -8,6 +8,10 @@
 > *Ici c'est chill, mais ça taffe*  
 > *Entre technique, contenu et passion : bienvenue dans l’univers **PECSitron_***  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PECSitron&show_icons=true&theme=gruvbox" alt="stats github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PECSitron&layout=compact&theme=gruvbox" alt="langues"/>
+</p>
 ---
 
 ### 📡 Mes Réseaux
