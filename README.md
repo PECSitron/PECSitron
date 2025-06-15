@@ -1,7 +1,7 @@
 # ![PECSitron_](https://i.imgur.com/SQaf8hI.jpeg)  
 # **PECSitron_**
 
-### 💻🤖 Lead Programer @Echoes Origins · Créateur de contenu 🎥💻
+### 💻🤖 Lead Programmer @Echoes Origins · Créateur de contenu 🎥💻
 
 ---
 
@@ -19,7 +19,7 @@
 ### 👨‍💻 À propos
 
 - 🎯 Créateur de contenu tech & gaming
-- 🧠 Dev & bidouilleur passionné Python, Lua, web, Unreal, mais aussi MAO, Overclocking et hardware.
+- 🧠 Dev & bidouilleur passionné Python, Lua, web, Unreal, mais aussi MAO, Overclocking et Hardware.
 
 ---
 
