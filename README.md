@@ -1,5 +1,5 @@
 # ![PECSitron_](https://i.imgur.com/SQaf8hI.jpeg)  
-# ** Pierre "PECSitron_" S.**
+#  Pierre ***"PECSitron_"*** S.
 
 ### 💻🤖 Lead Programmer @Echoes Origins · Créateur de contenu 🎥💻
 
