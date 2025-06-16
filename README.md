@@ -29,7 +29,7 @@
 ### 🔧 Curious?  
 Feel free to explore my projects and follow my content!
 
-<img src="https://github-readme-stats.vercel.app/api?username=PECSitron&show_icons=true&theme=chartreuse-dark" alt="github stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PECSitron&layout=compact&theme=chartreuse-dark" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PECSitron&show_icons=true&allow all commits=true&theme=chartreuse-dark" alt="github stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PECSitron&layout=compact&theme=chartreuse-dark" alt="top langs"/>
 
 ---
 
