@@ -1,3 +1,7 @@
+<p align="right">
+  🇬🇧 🇺🇸 <a href="./README.md">Read this page in English</a>
+</p>
+
 <img src="https://raw.githubusercontent.com/PECSitron/PECSitron/main/assets/banner.png" width="100%" />
 
 #  <p align="center"> Pierre ***"PECSitron_"*** S.
