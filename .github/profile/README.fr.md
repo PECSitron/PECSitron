@@ -1,6 +1,4 @@
-<p align="right">
-  🇬🇧 🇺🇸 <a href="./README.md">Read this page in English</a>
-</p>
+🇬🇧 🇺🇸 <a href="./README.md">Read this page in English</a>
 
 <img src="https://raw.githubusercontent.com/PECSitron/PECSitron/main/assets/banner.png" width="100%" />
 
