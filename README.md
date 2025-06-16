@@ -1,4 +1,4 @@
-c<img src="https://raw.githubusercontent.com/PECSitron/PECSitron/main/assets/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/PECSitron/PECSitron/main/assets/banner.png" width="100%" />
 
 #  <p align="center"> Pierre ***"PECSitron_"*** S.
 </p>
