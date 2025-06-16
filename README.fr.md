@@ -1,4 +1,4 @@
-🇬🇧 [Read this page in English](./README.md)
+🇺🇸 🇬🇧 [Read this page in English](./README.md)
 
 <img src="https://raw.githubusercontent.com/PECSitron/PECSitron/main/assets/banner.png" width="100%" />
 
