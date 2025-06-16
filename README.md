@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PECSitron/PECSitron/main/assets/banner.png" width="100%" />
+c<img src="https://raw.githubusercontent.com/PECSitron/PECSitron/main/assets/banner.png" width="100%" />
 
 #  <p align="center"> Pierre ***"PECSitron_"*** S.
 </p>
@@ -28,6 +28,10 @@
 
 ### 🔧 Envie d’en voir plus ?  
 N'hésite pas à explorer mes projets, suivre mes contenus !
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PECSitron&show_icons=true&theme=chartreuse-dark" alt="stats github"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PECSitron&layout=compact&theme=chartreuse-dark" alt="langues"/>
+
 
 ---
 
