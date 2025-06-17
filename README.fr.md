@@ -25,7 +25,7 @@
 
 - 🎯 Créateur de contenu tech & gaming
 - 🧠 Dev & bidouilleur passionné Python, Lua, web, Unreal, mais aussi MAO, Overclocking et Hardware.
-
+- 🍁 Ambassadeur "La Page Du Stoner" (LPDS) depuis 2015.
 ---
 
 ### 🔧 Envie d’en voir plus ?  
