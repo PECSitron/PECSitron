@@ -23,6 +23,7 @@
 
 - 🎯 Tech & gaming content creator
 - 🧠 Passionate developer & tinkerer: Python, Lua, Web, Unreal, but also audio engineering, overclocking, and high-end hardware
+- 🍁 LPDS Ambassador since 2015
 
 ---
 
