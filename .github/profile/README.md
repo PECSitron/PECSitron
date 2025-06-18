@@ -31,10 +31,10 @@
 Feel free to explore my projects and follow my content!
 
 <a href="https://github.com/PECSitron/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PECSitron&show_icons=true&allowprivatecommits=true&includeallcommits=true&theme=chartreuse-dark" alt="github stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PECSitron&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark" alt="github stats" />
 </a>
 <a href="https://github.com/PECSitron/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PECSitron&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&card_width=300&?username=PECSitron&theme=chartreuse-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PECSitron&count_private=true&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&card_width=300&theme=chartreuse-dark" />
 </a>
 
 > 📫 Contact: [echoes.pecsitron@gmail.com](mailto:echoes.pecsitron@gmail.com)
